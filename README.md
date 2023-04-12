@@ -1,5 +1,7 @@
 Próbowałam przenieść projekt na nest.js, ale z powodu braku czasu nie udało mi się tego zrobić. 
 
+Repozytorium backend - https://github.com/KarolinaSylwiaBanach/CourierSystemBackend. <br>
+
 # CourierSystem
 
 Projekt zaliczeniowy kursu MegaK
